@@ -23,18 +23,18 @@ case '/':
 			break;
 			
 case '+':
-		printf("Resultado: %.6f\n", num1 + num2);
-				break;
+	printf("Resultado: %.6f\n", num1 + num2);
+			break;
 	
-		printf("Resultado: %.6f\n", num1 - num2);
-					break;
+	printf("Resultado: %.6f\n", num1 - num2);
+			break;
 	
 case '*':
-		printf("Resultado: %.6f\n", num1 * num2);
-				break;						
+	printf("Resultado: %.6f\n", num1 * num2);
+			break;						
 	}
-		printf("Deseja fazer uma nova operacao? (s/n)\t");
-				scanf(" %c", &stop);
+	printf("Deseja fazer uma nova operacao? (s/n)\t");
+			scanf(" %c", &stop);
 	}
 
 return 0;
