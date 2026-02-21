@@ -1,4 +1,4 @@
-# Calculador em Linguagem C
+# Calculadora em Linguagem C
 
 📝 Calculadora Simples em C.
 
